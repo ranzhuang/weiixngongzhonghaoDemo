@@ -41,7 +41,7 @@ public class WxServlet extends HttpServlet {
     }
 
     /**
-     * 接受消息是事件推送
+     * 接受消息和事件推送
      * @param req
      * @param resp
      * @throws ServletException

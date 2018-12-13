@@ -50,7 +50,7 @@
       <scope>compile</scope>
     </dependency>
 
-    <!-- 格式化对象，方便输出日志 -->
+    <!-- 格式化对象 -->
     <dependency>
       <groupId>com.alibaba</groupId>
       <artifactId>fastjson</artifactId>

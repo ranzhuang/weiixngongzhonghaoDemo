@@ -33,7 +33,7 @@ public class CreatButtonUtil {
         creatWxButton();
     }
 
-    public static void creatWxButton() {
+    private static void creatWxButton() {
         //第一个菜单
         ClickButton oneButton = new ClickButton(ONE_MENU_TITLE,ONE_MENU_TITLEKEY);
         //第二个菜单

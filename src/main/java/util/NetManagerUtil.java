@@ -49,6 +49,7 @@ public class NetManagerUtil {
             while ((strRead = reader.readLine()) != null) {
                 sb.append(strRead);
             }
+            System.out.println(sb.toString());
             return sb.toString();
         } catch (Exception e) {
             e.printStackTrace();
